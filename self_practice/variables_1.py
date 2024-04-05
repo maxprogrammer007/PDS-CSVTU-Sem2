@@ -1,10 +1,10 @@
 x = 5
-print(type(x))
+print("This is ",type(x))
 y = 5.2
-print(type(y))
+print("This is ",type(y))
 z = "Hello"
-print(type(z))
+print("This is ",type(z))
 a = True
-print(type(a))
+print("This is ",type(a))
 b = False
-print(type(b))
+print("This is ",type(b))
