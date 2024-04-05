@@ -1,4 +1,4 @@
-# WAP to convert temperature from Celcius to Farenheit
+# WAP to convert temperature from Celsius to Fahrenheit
 # Formula: F = (C * 9/5) + 32
 
 def celcius_to_farenheit(celcius):
